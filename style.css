@@ -319,7 +319,10 @@ img.social:hover {
     opacity: 1;
 }
 
-
+.fini 
+{
+	text-decoration:line-through;
+}
 /* Footer */
 
 footer
